@@ -1,6 +1,6 @@
 
 
-# Data Warehousing & Mining Lab Practicals (22070521032)
+# Data Warehousing & Mining Lab Practical
 
 This repository contains all laboratory practicals for the Data Warehousing & Mining course.
 
